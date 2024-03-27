@@ -1,0 +1,10 @@
+{
+  "version": "2.0",
+  "functionTimeout": "00:09:59",
+
+  "extensions": {
+    "durableTask": {
+      "hubName": "OcadoTaskNewQueuePromotion"
+    }
+  }
+}
